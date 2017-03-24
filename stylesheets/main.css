@@ -57,3 +57,7 @@
     color: #212121;
     margin-bottom: 7vh;
 }
+
+.side-nav {
+    display: block !important;
+}
