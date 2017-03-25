@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
+
+
+.side-bar {
+    width: 70px !important;
+    background: #212121;
+    height: 100vh !important;
+}
+
+.iconstack {
+    font-size: 30px !important;
+    margin-left: 5px !important;
+}
+
+.author {
+    margin-top: 60px;
+}
+
+.author-img {
+    width: 50px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+.author-text {
+    vertical-align: middle;
+    display: inline-block;
+}
+
+.container {
+    background-color: transparent;
+}
+
+.hero {
+    height: 100vh;
+    width: calc(100vw - 70px);
+    float: right;
+    color: white;
+}
+
+.google-pixel {
+    background: url("http://az616578.vo.msecnd.net/files/2016/09/27/636105387238176414439634842_Protesters.jpg") right center;
+}
+.title {
+    padding-top: 20%;
+}
+.title h1 {
+    font-weight: 500;
+}
+
+.date {
+    font-family: 'Roboto Condensed', serif;
+}
+
+.article {
+    margin-top: 50vh;
+    color: #212121;
+    margin-bottom: 7vh;
+}
+
