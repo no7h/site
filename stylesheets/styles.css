@@ -79,9 +79,10 @@
 }
 
 .side-nav li.userView {
-    background-image: url(../images/spoon-userview.png);
+    background-image: url(http://az616578.vo.msecnd.net/files/2016/09/27/636105387238176414439634842_Protesters.jpg);
     height: 150px;
     background-size: cover;
+    padding-top: 50px;
 }
 
 /* T */
