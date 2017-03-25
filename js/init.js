@@ -7,17 +7,14 @@ $(document).ready(function(){
     $('.materialboxed').materialbox();
     $('.slider').slider({full_width: true});
     $('.collapsible').collapsible({accordion : false});
-    $('ul.tabs').tabs();
+    $('ul.tabs').tabs({
+        swipeable: true,
+    });
     $('.datepicker').pickadate({
         selectMonths: true,
         selectYears: 15,
     });
+    $(document).ready(function() {
     $('select').material_select();
-     $('.button-collapse').sideNav({
-      menuWidth: 300, // Default is 300
-      edge: 'left', // Choose the horizontal origin
-      closeOnClick: true, // Closes side-nav on <a> clicks, useful for Angular/Meteor
-      draggable: true // Choose whether you can drag to open on touch screens
-    }
-  );
+    });
 });
