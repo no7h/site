@@ -102,7 +102,12 @@ var tylerBeraldi = tylerBeraldi.replace("%date%", "March 25, 2017");
 var tylerBeraldi = tylerBeraldi.replace("%color%", "green");
 $("#c2").prepend(tylerBeraldi);
 
-/* Manas' card goes here */
+var manasJoshi = authorCard.replace("%author%", "Manas Joshi");
+var manasJoshi = manasJoshi.replace("%modal%", "manasjoshi");
+var manasJoshi = manasJoshi.replace("%post%", "I think it is pointless, because it disables me too take 3 electives so I must take 2.");
+var manasJoshi = manasJoshi.replace("%date%", "March 25, 2017");
+var manasJoshi = manasJoshi.replace("%color%", "indigo");
+$("#c4").prepend(manasJoshi);
 
 var arshTiku = authorCard.replace("%author%", "Arsh Tiku");
 var arshTiku = arshTiku.replace("%modal%", "arshtiku");
@@ -118,7 +123,12 @@ var anonymous6 = anonymous6.replace("%date%", "March 25, 2017");
 var anonymous6 = anonymous6.replace("%color%", "red");
 $("#c3").prepend(anonymous6);
 
-/* Rahul's card goes here */
+var rahulAgarwal = authorCard.replace("%author%", "Rahul Agarwal");
+var rahulAgarwal = rahulAgarwal.replace("%modal%", "rahulagarwal");
+var rahulAgarwal = rahulAgarwal.replace("%post%", "I do not agree with the new 7+H schedule, I would not prefer to have 7 classes all year. Only 4 a semester.");
+var rahulAgarwal = rahulAgarwal.replace("%date%", "March 25, 2017");
+var rahulAgarwal = rahulAgarwal.replace("%color%", "indigo");
+$("#c4").prepend(rahulAgarwal);
 
 var anonymous7 = authorCard.replace("%author%", "Anonymous");
 var anonymous7 = anonymous7.replace("%modal%", "anonymous7");
@@ -127,4 +137,30 @@ var anonymous7 = anonymous7.replace("%date%", "March 25, 2017");
 var anonymous7 = anonymous7.replace("%color%", "green");
 $("#c2").prepend(anonymous7);
 
-/* Ishaan's card goes here */
+var ishaanDesai = authorCard.replace("%author%", "Ishaan Desai");
+var ishaanDesai = ishaanDesai.replace("%modal%", "ishaandesai");
+var ishaanDesai = ishaanDesai.replace("%post%", "I think that this benefits the average student more than it may benefit a student considered 'above average'. From what I know, the H block is meant for students to go talk to their teachers about their classes and ask for help if they really need it. For a student who doesn't need this enrichment, the H block is completely useless unless they're able to do homework. Also after reading the information on the no7H website, this schedule change should cost a million dollars. That 1 million dollars can be used for something a lot more useful than a schedule change. They can raise the teacher's salaries, or use it to create more classes. Personally, I don't think this would benefit me and I'd rather be able to take another class instead of wasting an hour doing nothing.");
+var ishaanDesai = ishaanDesai.replace("%date%", "March 25, 2017");
+var ishaanDesai = ishaanDesai.replace("%color%", "indigo");
+$("#c4").prepend(ishaanDesai);
+
+var willShahbazian = authorCard.replace("%author%", "Will Shahbazian");
+var willShahbazian = willShahbazian.replace("%modal%", "willshahbazian");
+var willShahbazian = willShahbazian.replace("%post%", "I think that it is very confusing, especially for new students who don't know their way around the school yet. It will make it much harder to find all of the rooms and memorize the schedule, as opposed to the current one where students more or less have the same classes everyday. I found it tricky enough to find and memorize the order of my classes and to find the quickest routes to get from one to the next with their only being four a day, and I am certain that the new schedule will make it that much harder for incoming Freshman to navigate AHS.");
+var willShahbazian = willShahbazian.replace("%date%", "March 25, 2017");
+var willShahbazian = willShahbazian.replace("%color%", "blue");
+$("#c1").prepend(willShahbazian);
+
+var anonymous8 = authorCard.replace("%author%", "Anonymous");
+var anonymous8 = anonymous8.replace("%modal%", "anonymous8");
+var anonymous8 = anonymous8.replace("%post%", "I don't like the schedule and it's making me dread going to high school even more.");
+var anonymous8 = anonymous8.replace("%date%", "March 25, 2017");
+var anonymous8 = anonymous8.replace("%color%", "indigo");
+$("#c4").prepend(anonymous8);
+
+var anonymous9 = authorCard.replace("%author%", "Anonymous");
+var anonymous9 = anonymous9.replace("%modal%", "anonymous9");
+var anonymous9 = anonymous9.replace("%post%", "I think it's kind of confusing having 8 days instead of 5.");
+var anonymous9 = anonymous9.replace("%date%", "March 25, 2017");
+var anonymous9 = anonymous9.replace("%color%", "indigo");
+$("#c4").prepend(anonymous9);
