@@ -7,9 +7,7 @@ $(document).ready(function(){
     $('.materialboxed').materialbox();
     $('.slider').slider({full_width: true});
     $('.collapsible').collapsible({accordion : false});
-    $('ul.tabs').tabs({
-        swipeable: true,
-    });
+    $('ul.tabs').tabs();
     $('.datepicker').pickadate({
         selectMonths: true,
         selectYears: 15,
