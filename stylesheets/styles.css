@@ -61,6 +61,28 @@
 #sidenav-overlay {
     z-index: 990;
 }
+.side-nav .userInfo a.other {
+    font-size: 13px;
+    font-weight: 500 !important;
+    display: block;
+    padding: 0px;
+}
+
+.side-nav .userInfo a.other:hover {
+    background: transparent;
+}
+
+.side-nav .userInfo span.name {
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 15px;
+}
+
+.side-nav li.userView {
+    background-image: url(../images/spoon-userview.png);
+    height: 150px;
+    background-size: cover;
+}
 
 /* T */
 .thin {
