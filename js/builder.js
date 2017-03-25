@@ -19,7 +19,12 @@ var markHaskell = markHaskell.replace("%date%", "March 25, 2017");
 var markHaskell = markHaskell.replace("%color%", "green");
 $("#c2").prepend(markHaskell);
 
-/* George Joseph's card goes here */
+var georgeJoseph = authorCard.replace("%author%", "George Joseph");
+var georgeJoseph = georgeJoseph.replace("%modal%", "georgejoseph");
+var georgeJoseph = georgeJoseph.replace("%post%", "It restricts what I can take ");
+var georgeJoseph = georgeJoseph.replace("%date%", "March 25, 2017");
+var georgeJoseph = georgeJoseph.replace("%color%", "green");
+$("#c2").prepend(georgeJoseph);
 
 var gabePapazian = authorCard.replace("%author%", "Gabe Papazian");
 var gabePapazian = gabePapazian.replace("%modal%", "gabepapazian");
@@ -164,3 +169,10 @@ var anonymous9 = anonymous9.replace("%post%", "I think it's kind of confusing ha
 var anonymous9 = anonymous9.replace("%date%", "March 25, 2017");
 var anonymous9 = anonymous9.replace("%color%", "indigo");
 $("#c4").prepend(anonymous9);
+
+var anonymous10 = authorCard.replace("%author%", "Anonymous");
+var anonymous10 = anonymous10.replace("%modal%", "anonymous10");
+var anonymous10 = anonymous10.replace("%post%", "With the 7+h schedule I think it's going to cause lots of stress to all the students and even teachers. With the schedule we have now we have more time to focus on the four classes we have each semester. We have more time to study for finals and or midterms. On the other hand. With the new schedule we are going to have to focus on 7 classes, sports, etc. lots of us get home at five or even eight o'clock at night and only have a few hours to do our homework. And we already have lots now! We need sleep and we need time for ourselves as well. I think the schedule we have now works just fine.");
+var anonymous10 = anonymous10.replace("%date%", "March 25, 2017");
+var anonymous10 = anonymous10.replace("%color%", "blue");
+$("#c1").prepend(anonymous10);
