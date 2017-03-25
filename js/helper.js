@@ -1,0 +1,2 @@
+/* Author card */
+var authorCard = '<div class="col s12 l4 m6"><div class="card"><div class="card-image"><a class="btn-floating halfway-fab waves-effect waves-light white" href="#%modal%"><i class="material-icons black-text">library_books</i></a><div class="category-color %color%"></div></div><div class="card-content"><h5 class="light"><small>by </small>%author%</h5><p class="light">%date%</p><i class="truncate">%post%</i></div></div></div>';
