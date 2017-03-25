@@ -28,6 +28,10 @@
     background-color: black;
 }
 
+.indent {
+    text-indent: 2%;
+}
+
 /* J */
 
 /* K */
@@ -54,6 +58,9 @@
 /* R */
 
 /* S */
+.side-nav-overlay {
+    z-index: 93;
+}
 
 /* T */
 .thin {
@@ -65,6 +72,12 @@
 /* V */
 
 /* W */
+@media screen and (max-width: 993px) {
+    .writer-info {
+        height: 150px !important;
+    }
+}
+
 
 /* X */
 
