@@ -1,7 +1,7 @@
 #header {
   background-image: url("../img/assets/AndoverHighSchool.jpg");
   height: 100vh;
-  background-size: 100%;
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
   /* filter: grayscale(75%); */
