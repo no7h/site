@@ -4,5 +4,17 @@
   background-size: 100%;
   background-repeat: no-repeat;
   background-position: center center;
-  filter: grayscale(75%); /* This looks sick */
+  /* filter: grayscale(75%); */
+
+  /*This looks sick, but affects the child elements TODO: Make this suck less */
+}
+
+#header > div {
+  width: 100%;
+}
+
+.headertext {
+  font-weight: 500;
+  mix-blend-mode: hard-light;
+  opacity: 0.9;
 }
