@@ -98,7 +98,12 @@ var anonymous5 = anonymous5.replace("%date%", "March 25, 2017");
 var anonymous5 = anonymous5.replace("%color%", "green");
 $("#c2").prepend(anonymous5);
 
-/* Abhay's card goes here */
+var abhaySharma = authorCard.replace("%author%", "Abhay Sharma");
+var abhaySharma = abhaySharma.replace("%modal%", "abhaysharma");
+var abhaySharma = abhaySharma.replace("%post%", "The schedule restricts our rights as students to take what classes we want. It takes away one credit for us, which could be used for another AP or two electives. The general student body was not asked at all on their opinion of the new schedule. The town can have various committees and boards, but they all forget that the students are the ones attending the school and going through the schedule​, not them. I believe that we should be drastically more involved in the schedule process.");
+var abhaySharma = abhaySharma.replace("%date%", "March 25, 2017");
+var abhaySharma = abhaySharma.replace("%color%", "green");
+$("#c2").prepend(abhaySharma);
 
 var tylerBeraldi = authorCard.replace("%author%", "Tyler Beraldi");
 var tylerBeraldi = tylerBeraldi.replace("%modal%", "tylerberaldi");
@@ -176,3 +181,185 @@ var anonymous10 = anonymous10.replace("%post%", "With the 7+h schedule I think i
 var anonymous10 = anonymous10.replace("%date%", "March 25, 2017");
 var anonymous10 = anonymous10.replace("%color%", "blue");
 $("#c1").prepend(anonymous10);
+
+var jessyHan = authorCard.replace("%author%", "Jessy Han");
+var jessyHan = jessyHan.replace("%modal%", "jessyhan");
+var jessyHan = jessyHan.replace("%post%", "The 7+H Schedule has been shoved onto us. During the 'discussion' process of the schedule, the almost unanimous view of the student body was that the schedule was a bad idea. When discussing this new schedule, the district held sham meetings and claimed that they would take student concerns into account, but if they actually did, the whole idea would've been scrapped. The goal of the district from the very beginning was to instate this schedule, and they weren't going to take no for an answer. Students want a schedule that gives us room to take the classes we need and want in order to prepare us for our futures, and this new schedule isn't going to do that. Everyone probably agrees that our current schedule has some problems, and the administration should ask students what they are and come up with a better schedule together. I suggest that the district asks students to form a representative panel, around 20-25 students, who will represent us when negotiating new schedule. I am sure that students at all grade levels will be more than happy to create such a panel. At the end of the day, the district must remember that it's our futures that are on the line. We shouldn't be disadvantaged when applying for college because of this bureaucratic nonsense. We deserve better.");
+var jessyHan = jessyHan.replace("%date%", "March 25, 2017");
+var jessyHan = jessyHan.replace("%color%", "green");
+$("#c2").prepend(jessyHan);
+
+var garretRikkers = authorCard.replace("%author%", "Garret Rikkers");
+var garretRikkers = garretRikkers.replace("%modal%", "garretrikkers");
+var garretRikkers = garretRikkers.replace("%post%", "Not a good idea. It will cause a huge amount of confusion with it being an 8 day rotation (lots of people can't even remember if it's a blue or gold day). On top of that it will cost our town's taxpayers more money due to the need to hire more teachers. Also with the new schedule we are unable to sign up for the same number of credits as before. Only allowing us to take 7 credits instead of 8, making it much harder to take the electives and other classes that we want to make the most of our high school experience and get the right credits for the college we want to attend. Now i'm sure many of us like only having a certain class for half the year, it gives us a break from harder classes and with only having at most 4 academics it allows us to focus more on each class. Overall the 7+H schedule will not be benificial to our education or social atmosphere here at Andover High School.");
+var garretRikkers = garretRikkers.replace("%date%", "March 25, 2017");
+var garretRikkers = garretRikkers.replace("%color%", "green");
+$("#c2").prepend(garretRikkers);
+
+var eileenOFarrell = authorCard.replace("%author%", "Eileen O'Farrell");
+var eileenOFarrell = eileenOFarrell.replace("%modal%", "eileenofarrell");
+var eileenOFarrell = eileenOFarrell.replace("%post%", "It is Andover's equivalent of Trumpcare. (meaning I think its pretty heckin stupid)");
+var eileenOFarrell = eileenOFarrell.replace("%date%", "March 25, 2017");
+var eileenOFarrell = eileenOFarrell.replace("%color%", "green");
+$("#c2").prepend(eileenOFarrell);
+
+var jamesReedy = authorCard.replace("%author%", "James Reedy");
+var jamesReedy = jamesReedy.replace("%modal%", "jamesreedy");
+var jamesReedy = jamesReedy.replace("%post%", "I can't say with evidence that its bad compared to the previous schedule, but thats what i've heard.");
+var jamesReedy = jamesReedy.replace("%date%", "March 25, 2017");
+var jamesReedy = jamesReedy.replace("%color%", "indigo");
+$("#c4").prepend(jamesReedy);
+
+var anonymous11 = authorCard.replace("%author%", "Anonymous");
+var anonymous11 = anonymous11.replace("%modal%", "anonymous11");
+var anonymous11 = anonymous11.replace("%post%", "The new schedule Andover plans to put into effect will be more detrimental to students lives than it will be helpful. This schedule doesn't allow me room to take the courses I was looking forward to taking before I graduated. If I had joan that this schedule would be put into place sooner, even before I entered high school, I might have had time to figure out which classes I would have wanted to take. Instead, I do not have the opportunities to take classes that would be helpful to my college career, like AP courses that require 1.5 credits. Removing the opportunity to take 8 credits in one year may seem like a way to remove stress from students lives, but it limits my personal opportunities for achievement. It is also not certain that all teachers will cut back on homework loads, with as many classes as we would have in one day the hours of homework would give us little to no sleep or time for sports and family commitments. This is a main concern of high school students. The new schedule is supposed to reduce stress, but instead it is already making students nervous for their futures. Another main concern is with the concept of H-block, as a student I believe that we as a school will not take the H-block seriously. Instead students will abuse the time given for the H-block and not get any work done within the very short amount of time given. Many students also rely on study halls to get work done, especially those who have sports and after school commitments. Overall the 7H schedule has already made students, teachers, and parents frustrated and nervous. This kind of change will only generate angry students. Andover High School doesn't have the support for a new schedule that it needs.");
+var anonymous11 = anonymous11.replace("%date%", "March 25, 2017");
+var anonymous11 = anonymous11.replace("%color%", "green");
+$("#c2").prepend(anonymous11);
+
+var morganSwain = authorCard.replace("%author%", "Morgan Swain");
+var morganSwain = morganSwain.replace("%modal%", "morganswain");
+var morganSwain = morganSwain.replace("%post%", "I feel as an incoming junior in high school, this new schedule will be far too overwhelming for me. There are too many classes packed into one day. It also puts in an H block which I am unsure about what I will be using for as no one has explained this to me, or why it is necessary. I would much rather have the normal schedule because it would lessen my work load and the amount of content i receive in one school day.");
+var morganSwain = morganSwain.replace("%date%", "March 25, 2017");
+var morganSwain = morganSwain.replace("%color%", "green");
+$("#c2").prepend(morganSwain);
+
+var annaHiggins = authorCard.replace("%author%", "Anna Higgins");
+var annaHiggins = annaHiggins.replace("%modal%", "annahiggins");
+var annaHiggins = annaHiggins.replace("%post%", "The 7+H Schedule should not be put into use at Andover High School. The fact that it keeps us from taking more classes is ridiculous. It has forced many students to choose between academic classes and electives. Not being able to take interesting electives will make us appear one-sides and thus less desirable to colleges. On the flip side, not taking the extra academic could mean that we are missing out on high level classes that colleges like to see completed in high school.");
+var annaHiggins = annaHiggins.replace("%date%", "March 25, 2017");
+var annaHiggins = annaHiggins.replace("%color%", "green");
+$("#c2").prepend(annaHiggins);
+
+var maryAnderson = authorCard.replace("%author%", "Mary Anderson");
+var maryAnderson = maryAnderson.replace("%modal%", "maryanderson");
+var maryAnderson = maryAnderson.replace("%post%", "Not a fan. You cant do anything in a 20 minute study besides eat a snack maybe go to one teacher if theyre not already busy. Plus were losing classes.");
+var maryAnderson = maryAnderson.replace("%date%", "March 25, 2017");
+var maryAnderson = maryAnderson.replace("%color%", "red");
+$("#c3").prepend(maryAnderson);
+
+var lucianoRobbins = authorCard.replace("%author%", "Luciano Robbins");
+var lucianoRobbins = lucianoRobbins.replace("%modal%", "Luciano Robbins");
+var lucianoRobbins = lucianoRobbins.replace("%post%", "I do not agree with the ideas of the new schedule. I believe that it takes away from the students' education, creativity and well being at the school. It could potentially be overwhelming with there being so many different days, planning home life with school life, and not being able to have more experience with different classes. I believe that I have a well enough understanding of both schedules by hearing from different high schoolers and being explained the new schedule. After being exposed to both of them I would like to keep the old schedule. ");
+var lucianoRobbins = lucianoRobbins.replace("%date%", "March 25, 2017");
+var lucianoRobbins = lucianoRobbins.replace("%color%", "green");
+$("#c2").prepend(lucianoRobbins);
+
+var anonymous12 = authorCard.replace("%author%", "Anonymous");
+var anonymous12 = anonymous12.replace("%modal%", "anonymous12");
+var anonymous12 = anonymous12.replace("%post%", "With this new schedule I won't be able to take as many classes as I would like. This is a problem because some students, such as I are a part of the EGE program which requires us to take some required classes to complete the program and get the title of a 'Global Scholar.' So basically it's nearly impossible for us students to take the classes required by the high school, the EGE program, and the classes that we ourselves want to take. Also with this new 7+H Schedule we will have all of our final at the same time. Which most of us are not used to. This will make students stress out more than they already are when finals come around. ");
+var anonymous12 = anonymous12.replace("%date%", "March 25, 2017");
+var anonymous12 = anonymous12.replace("%color%", "green");
+$("#c2").prepend(anonymous12);
+
+var anonymous13 = authorCard.replace("%author%", "Anonymous");
+var anonymous13 = anonymous13.replace("%modal%", "anonymous13");
+var anonymous13 = anonymous13.replace("%post%", "I believe the 7+H schedule is not going to be effective or useful to the majority of students at Andover High. Having one less credit makes it much more challenging for upperclassmen to fit in classes that they want to take along with the required courses. The H block is also likely to be a waste of space for many students. Classrooms will fill up fast and students will often not end up where they want to be, resulting in nothing more than a study. It may help the struggling students, but the 7+H schedule will decrease the experience of students who want to excel.");
+var anonymous13 = anonymous13.replace("%date%", "March 25, 2017");
+var anonymous13 = anonymous13.replace("%color%", "green");
+$("#c2").prepend(anonymous13);
+
+var anonymous14 = authorCard.replace("%author%", "Anonymous");
+var anonymous14 = anonymous14.replace("%modal%", "anonymous14");
+var anonymous14 = anonymous14.replace("%post%", "It doesn't make a lot of sense because it will overload kids with homework.");
+var anonymous14 = anonymous14.replace("%date%", "March 25, 2017");
+var anonymous14 = anonymous14.replace("%color%", "green");
+$("#c2").prepend(anonymous14);
+
+var anonymous15 = authorCard.replace("%author%", "Anonymous");
+var anonymous15 = anonymous15.replace("%modal%", "anonymous15");
+var anonymous15 = anonymous15.replace("%post%", "The new schedule addresses what the administration thought students needed but they never communicated with us about what actually needs adjusting. I was looking forward to volunteering at Frost School or maybe even graduating early, and those are both no longer possible. ");
+var anonymous15 = anonymous15.replace("%date%", "March 25, 2017");
+var anonymous15 = anonymous15.replace("%color%", "red");
+$("#c3").prepend(anonymous15);
+
+var catherineDankens = authorCard.replace("%author%", "Catherine Dankens");
+var catherineDankens = catherineDankens.replace("%modal%", "catherinedankens");
+var catherineDankens = catherineDankens.replace("%post%", "I think we should just keep the curent schedule because it has worked for years now and the change would be very hard for both students and teachers. Also there seems to be many flaws with the 7+H schedule that haven't be figured our year and it is almost the end of the school year.");
+var catherineDankens = catherineDankens.replace("%date%", "March 25, 2017");
+var catherineDankens = catherineDankens.replace("%color%", "blue");
+$("#c1").prepend(catherineDankens);
+
+var karishmaMistry = authorCard.replace("%author%", "Karishma Mistry");
+var karishmaMistry = karishmaMistry.replace("%modal%", "karishmamistry");
+var karishmaMistry = karishmaMistry.replace("%post%", "I like the idea of full year courses and getting to know teachers better however there are many thinggs wrong with the new schedule. It will be very overwhelming for many students because of the varying time of days the blocks are. The amount of homework for 7 classes will be way too big a change for all the current freshman, sophomores, and juniors. Also, I think H block is unneeded as it's pretty much an automatic study, which I do not want as a junior. I'd rather have the 1 credit to take another class or two.");
+var karishmaMistry = karishmaMistry.replace("%date%", "March 25, 2017");
+var karishmaMistry = karishmaMistry.replace("%color%", "green");
+$("#c2").prepend(karishmaMistry);
+
+var gwenSweeney = authorCard.replace("%author%", "Gwen Sweeney");
+var gwenSweeney = gwenSweeney.replace("%modal%", "gwensweeney");
+var gwenSweeney = gwenSweeney.replace("%post%", "I do not like the idea of it bc it means I will be taking 2  math classes at the same time for the whole year and will have more hw each day and I don't think I can balance 7 different classes at once.");
+var gwenSweeney = gwenSweeney.replace("%date%", "March 25, 2017");
+var gwenSweeney = gwenSweeney.replace("%color%", "blue");
+$("#c1").prepend(gwenSweeney);
+
+var anonymous16 = authorCard.replace("%author%", "Anonymous");
+var anonymous16 = anonymous16.replace("%modal%", "anonymous16");
+var anonymous16 = anonymous16.replace("%post%", "As a student with ADHD and have been on an IEP for my middle school and high school career, I am beyond concerned with what the school will do about my assisted study as that will be gone with the 7+H block schedule. I have struggled with my learning disability for years, and I am so worried with not only the H block, however that is only the beginning of my concerns. The homework load, possibility of 7 tests in one day, extracirriculars, and of course finals. Not to mention, with this new schedule combined with my IEP, I cannot take ANY electives which mean a lot to me and to be honest, was the reason for any excitement for my junior year.  If this new schedule does happen, my life along will many others will be filled with twice the amount of anxiety that would have already occurred my junior year because of colleges.");
+var anonymous16 = anonymous16.replace("%date%", "March 25, 2017");
+var anonymous16 = anonymous16.replace("%color%", "green");
+$("#c2").prepend(anonymous16);
+
+var stephanieEmerhi = authorCard.replace("%author%", "Stephanie Emerhi");
+var stephanieEmerhi = stephanieEmerhi.replace("%modal%", "stephanieemerhi");
+var stephanieEmerhi = stephanieEmerhi.replace("%post%", "I don't really care for it. I mean, if it's not broken, don't fix it. If administration/faculty was REALLY serious about this, they would ask the students how they could help us cope/transition to the 7 + H schedule. If this actually happens, teachers will be throwing the same amount of hw for four classes to seven classes. This is like telling us to learn piano in 2 days. ");
+var stephanieEmerhi = stephanieEmerhi.replace("%date%", "March 25, 2017");
+var stephanieEmerhi = stephanieEmerhi.replace("%color%", "green");
+$("#c2").prepend(stephanieEmerhi);
+
+var kateUluatam = authorCard.replace("%author%", "Kate Uluatam");
+var kateUluatam = kateUluatam.replace("%modal%", "kateuluatam");
+var kateUluatam = kateUluatam.replace("%post%", "I think it's going to make everyone's job a lot harder. Instead of making it easier for the students to learn the curriculum, it'll create more stress due to too much work from each class. Also, teachers will have to cram their lessons into a short block.");
+var kateUluatam = kateUluatam.replace("%date%", "March 25, 2017");
+var kateUluatam = kateUluatam.replace("%color%", "blue");
+$("#c1").prepend(kateUluatam);
+
+var anonymous17 = authorCard.replace("%author%", "Anonymous");
+var anonymous17 = anonymous17.replace("%modal%", "anonymous17");
+var anonymous17 = anonymous17.replace("%post%", "No students like the schuedule! it's so much more unnecessary stress. please don't do it.");
+var anonymous17 = anonymous17replace("%date%", "March 25, 2017");
+var anonymous17 = anonymous17.replace("%color%", "green");
+$("#c2").prepend(anonymous17);
+
+var ruiyingGao = authorCard.replace("%author%", "Ruiying Gao");
+var ruiyingGao = ruiyingGao.replace("%modal%", "ruiyinggao");
+var ruiyingGao = ruiyingGao.replace("%post%", "I am fustrated with the fact that the number of classes we can take are reduced, which limits our class options and increases the difficulty in choosing classes.");
+var ruiyingGao = ruiyingGao.replace("%date%", "March 25, 2017");
+var ruiyingGao = ruiyingGao.replace("%color%", "green");
+$("#c2").prepend(ruiyingGao);
+
+var anonymous18 = authorCard.replace("%author%", "Anonymous");
+var anonymous18 = anonymous18.replace("%modal%", "anonymous18");
+var anonymous18 = anonymous18.replace("%post%", "The 7+H schedule will cause more stress for students than before. We now have to keep up with 7 credits worth of classes at once instead of 3.5 or 4 at once. We also have to do 7 classes worth of homework. Especially for those taking and AP or multiple, that leaves no time for activities or relaxation time. I know lots of us already have so much anxiety from school and feel that the new schedule will just push us over the edge and like we will have a mental breakdown every week. I think the majority of the student body and staff are against the new schedule and that the administration is just not listening to us.");
+var anonymous18 = anonymous18replace("%date%", "March 25, 2017");
+var anonymous18 = anonymous18.replace("%color%", "green");
+$("#c2").prepend(anonymous18);
+
+var anonymous19 = authorCard.replace("%author%", "Anonymous");
+var anonymous19 = anonymous19.replace("%modal%", "anonymous19");
+var anonymous19 = anonymous19.replace("%post%", "I am against the new 7+ H schedule because I feel that an eight day rotation is impractical and will ignite chaos. Students are doing well enough with the current schedule and I don't understand what the problem is with the current schedule. During this process the school has neglected to really inform the student body about how the schedule will work and why the current schedule is being changed.");
+var anonymous19 = anonymous19replace("%date%", "March 25, 2017");
+var anonymous19 = anonymous19.replace("%color%", "green");
+$("#c2").prepend(anonymous19);
+
+var anonymous20 = authorCard.replace("%author%", "Anonymous");
+var anonymous20 = anonymous20.replace("%modal%", "anonymous20");
+var anonymous20 = anonymous20.replace("%post%", "I think it's taking the most simple and easy to manage schedule and turning it into the most ridiculous and unreasonable schedule. Having 7 classes means seven hw assignments a night, seven projects to do, and seven tests to study for all at the same time, because we all know teachers don't coordinate these things and don't care if you have other classes to deal with. It's so unreasonable and unnecessary I'm getting anxious just writing about it.");
+var anonymous20 = anonymous20.replace("%date%", "March 25, 2017");
+var anonymous20 = anonymous20.replace("%color%", "green");
+$("#c2").prepend(anonymous20);
+
+var anonymous21 = authorCard.replace("%author%", "Anonymous");
+var anonymous21 = anonymous21.replace("%modal%", "anonymous21");
+var anonymous21 = anonymous21.replace("%post%", "The 7+H Schedule may not work for everyone and I do not think that it will benefit me. I only get to pick two electives instead of being able to take the three that I want, and the H block is useless for people who do not need extra help in any way. This new schedule is a waste of time and money to put together and they should just stick to blue and gold days.");
+var anonymous21 = anonymous21.replace("%date%", "March 25, 2017");
+var anonymous21 = anonymous21.replace("%color%", "indigo");
+$("#c4").prepend(anonymous21);
+
+var anonymous22 = authorCard.replace("%author%", "Anonymous");
+var anonymous22 = anonymous22.replace("%modal%", "anonymous22");
+var anonymous22 = anonymous22.replace("%post%", "It's a bad idea -- expensive, confusing, and unneccesary.");
+var anonymous22 = anonymous22.replace("%date%", "March 25, 2017");
+var anonymous22 = anonymous22.replace("%color%", "green");
+$("#c2").prepend(anonymous22);
