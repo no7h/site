@@ -1,3 +1,16 @@
+#topnav {
+  position: absolute;
+}
+
+#topnav > nav {
+  opacity: 0.7;
+  transition: opacity 0.3s ease-in-out;
+}
+
+#topnav > nav:hover {
+  opacity: 1.0;
+}
+
 #header {
   background-image: url("../img/assets/AndoverHighSchool.jpg");
   height: 100vh;
