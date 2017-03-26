@@ -25,9 +25,27 @@
 header {
     background: url("http://az616578.vo.msecnd.net/files/2016/09/27/636105387238176414439634842_Protesters.jpg") center center;
     background-size: cover;
-    height: 40vh;
-    width:100vw;
+    height: 45vh;
+    width: 100vw;
+    position: relative;
+    bottom: 25px;
 }
+.header-text {
+    position: relative;
+    top: 100px;
+}
+#home p {
+    font-size: 15px;
+    font-weight: 300;
+}
+hr.intro {
+    width: 100px;
+}
+.hr {
+    border-bottom: solid 3px #607d8b;
+    width: 40px;
+}
+
 /* I */
 .tabs .indicator {
     background-color: black;
