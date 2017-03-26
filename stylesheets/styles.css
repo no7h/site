@@ -22,7 +22,10 @@
 /* G */
 
 /* H */
-
+header {
+    background: url("http://az616578.vo.msecnd.net/files/2016/09/27/636105387238176414439634842_Protesters.jpg") center center;
+    background-size: cover;
+}
 /* I */
 .tabs .indicator {
     background-color: black;
