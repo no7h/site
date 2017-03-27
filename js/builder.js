@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-=======
+
 var joeyGrieve = authorCard.replace("%author%", "Joey Grieve");
 var joeyGrieve = joeyGrieve.replace("%modal%", "joeygrieve");
 var joeyGrieve = joeyGrieve.replace("%post%", "To Whom it may Concern: Given the vast popularity of this topic, I will not waste your time with extraneous paragraphs with excessive explanations");
@@ -463,4 +462,3 @@ var zacharyClement = zacharyClement.replace("%post%", "It adds awkward redundanc
 var zacharyClement = zacharyClement.replace("%date%", "March 26, 2017");
 var zacharyClement = zacharyClement.replace("%color%", "indigo");
 $("#c4").prepend(zacharyClement);
->>>>>>> master
