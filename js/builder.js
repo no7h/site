@@ -318,7 +318,7 @@ $("#c1").prepend(kateUluatam);
 var anonymous17 = authorCard.replace("%author%", "Anonymous");
 var anonymous17 = anonymous17.replace("%modal%", "anonymous17");
 var anonymous17 = anonymous17.replace("%post%", "No students like the schuedule! it's so much more unnecessary stress. please don't do it.");
-var anonymous17 = anonymous17replace("%date%", "March 25, 2017");
+var anonymous17 = anonymous17.replace("%date%", "March 25, 2017");
 var anonymous17 = anonymous17.replace("%color%", "green");
 $("#c2").prepend(anonymous17);
 
@@ -332,14 +332,14 @@ $("#c2").prepend(ruiyingGao);
 var anonymous18 = authorCard.replace("%author%", "Anonymous");
 var anonymous18 = anonymous18.replace("%modal%", "anonymous18");
 var anonymous18 = anonymous18.replace("%post%", "The 7+H schedule will cause more stress for students than before. We now have to keep up with 7 credits worth of classes at once instead of 3.5 or 4 at once. We also have to do 7 classes worth of homework. Especially for those taking and AP or multiple, that leaves no time for activities or relaxation time. I know lots of us already have so much anxiety from school and feel that the new schedule will just push us over the edge and like we will have a mental breakdown every week. I think the majority of the student body and staff are against the new schedule and that the administration is just not listening to us.");
-var anonymous18 = anonymous18replace("%date%", "March 25, 2017");
+var anonymous18 = anonymous18.replace("%date%", "March 25, 2017");
 var anonymous18 = anonymous18.replace("%color%", "green");
 $("#c2").prepend(anonymous18);
 
 var anonymous19 = authorCard.replace("%author%", "Anonymous");
 var anonymous19 = anonymous19.replace("%modal%", "anonymous19");
 var anonymous19 = anonymous19.replace("%post%", "I am against the new 7+ H schedule because I feel that an eight day rotation is impractical and will ignite chaos. Students are doing well enough with the current schedule and I don't understand what the problem is with the current schedule. During this process the school has neglected to really inform the student body about how the schedule will work and why the current schedule is being changed.");
-var anonymous19 = anonymous19replace("%date%", "March 25, 2017");
+var anonymous19 = anonymous19.replace("%date%", "March 25, 2017");
 var anonymous19 = anonymous19.replace("%color%", "green");
 $("#c2").prepend(anonymous19);
 
@@ -373,7 +373,7 @@ $("#c4").prepend(emilyChen);
 
 var anonymous23 = authorCard.replace("%author%", "Anonymous");
 var anonymous23 = anonymous23.replace("%modal%", "anonymous23");
-var anonymous23 = anonymous23.replace("%post%", "I am not a  huge fan of the new schedule. H block is essentially a study period which in with a our current schedule a student could replace with a course they'd like to take.");
+var anonymous23 = anonymous23.replace("%post%", "I am not a huge fan of the new schedule. H block is essentially a study period which in with a our current schedule a student could replace with a course they'd like to take.");
 var anonymous23 = anonymous23.replace("%date%", "March 26, 2017");
 var anonymous23 = anonymous23.replace("%color%", "green");
 $("#c2").prepend(anonymous23);
@@ -429,38 +429,35 @@ $("#c2").prepend(anonymous26);
 
 var anonymous27 = authorCard.replace("%author%", "Anonymous");
 var anonymous27 = anonymous27.replace("%modal%", "anonymous27");
-var anonymous27 = anonymous27.replace("%post%", "I don't really have an opinion so I would not violently protest if they implemented it, but I do see how there are less classes and the work load it more. Overall I can see how people would have a problem with it.");
+var anonymous27 = anonymous27.replace("%post%", "I believe the 7+H schedule limits a student's ability to take classes of choice. As a sophomore, I will have 6 required credits next year. I want to take statistics, but this gives me no flexibility to take AP Biology or AP Chemistry due to them being 1.5 credits or any electives worth 0.5 credits. With the current schedule, there is an opportunity to explore new electives and new schedule strongly limits this.");
 var anonymous27 = anonymous27.replace("%date%", "March 26, 2017");
 var anonymous27 = anonymous27.replace("%color%", "green");
 $("#c2").prepend(anonymous27);
 
-var anonymous28 = authorCard.replace("%author%", "Anonymous");
-var anonymous28 = anonymous28.replace("%modal%", "anonymous28");
-var anonymous28 = anonymous28.replace("%post%", "I believe the 7+H schedule limits a student's ability to take classes of choice. As a sophomore, I will have 6 required credits next year. I want to take statistics, but this gives me no flexibility to take AP Biology or AP Chemistry due to them being 1.5 credits or any electives worth 0.5 credits. With the current schedule, there is an opportunity to explore new electives and new schedule strongly limits this.");
-var anonymous28 = anonymous28.replace("%date%", "March 26, 2017");
-var anonymous28 = anonymous28.replace("%color%", "green");
-$("#c2").prepend(anonymous28);
-
 var sophiaLynch = authorCard.replace("%author%", "Sophia Lynch");
 var sophiaLynch = sophiaLynch.replace("%modal%", "sophialynch");
 var sophiaLynch = sophiaLynch.replace("%post%", "I do not like the 7h schedule. This is due to the fact that we lose a credit, and have less room in our schedules, therefore limiting our learning opportunities.");
+var sophiaLynch = sophiaLynch.replace("%date%", "March 26, 2017");
 var sophiaLynch = sophiaLynch.replace("%color%", "green");
 $("#c2").prepend(sophiaLynch);
 
 var riyaSharma = authorCard.replace("%author%", "Riya Sharma");
 var riyaSharma = riyaSharma.replace("%modal%", "riyasharma");
 var riyaSharma = riyaSharma.replace("%post%", "I feel as though the new 7+H schedule will be quite hard to follow, especially for incoming freshman who will already be experiencing difficulty finding their way around their new school to the variety of classes offered.");
+var riyaSharma = riyaSharma.replace("%date%", "March 26, 2017");
 var riyaSharma = riyaSharma.replace("%color%", "indigo");
 $("#c4").prepend(riyaSharma);
 
 var marilynCardin = authorCard.replace("%author%", "Marilyn Cardin");
 var marilynCardin = marilynCardin.replace("%modal%", "marilyncardin");
 var marilynCardin = marilynCardin.replace("%post%", "I think the schedule is unnecessary and is going to cause more harm than good.");
+var marilynCardin = marilynCardin.replace("%date%", "March 26, 2017");
 var marilynCardin = marilynCardin.replace("%color%", "green");
 $("#c2").prepend(marilynCardin);
 
 var zacharyClement = authorCard.replace("%author%", "Zachary Clement");
 var zacharyClement = zacharyClement.replace("%modal%", "zacharyclement");
 var zacharyClement = zacharyClement.replace("%post%", "It adds awkward redundancies to our schedule, redundancies that could be replaced by actual work.");
+var zacharyClement = zacharyClement.replace("%date%", "March 26, 2017");
 var zacharyClement = zacharyClement.replace("%color%", "indigo");
 $("#c4").prepend(zacharyClement);
