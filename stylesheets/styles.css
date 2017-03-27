@@ -1,9 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
 /* # */
 
 /* A */
+.article {
+    margin-top: 50vh;
+    color: #212121;
+    margin-bottom: 7vh;
+}
 
+@media screen and (max-width: 1100px) {
+    .article {
+        margin-top: 65vh !important;
+    }
+}
+.author {
+    padding-top: 60px;
+}
+
+.author-img {
+    width: 50px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+.author-text {
+    vertical-align: middle;
+    display: inline-block;
+}
 /* B */
-
+.btn_flat {
+    font-weight: 500;
+    text-transform: uppercase;
+    color: #fff;
+}
+.button-collapse i {
+    font-size: 23px !important;
+}
 /* C */
 .category-color {
     height: 80px;
@@ -14,13 +46,17 @@
 }
 
 /* D */
-
+.date {
+    font-family: 'Roboto Condensed', serif;
+}
 /* E */
 
 /* F */
 
 /* G */
-
+.google-pixel {
+    background: url("http://az616578.vo.msecnd.net/files/2016/09/27/636105387238176414439634842_Protesters.jpg") right center;
+}
 /* H */
 header {
     background: url("http://az616578.vo.msecnd.net/files/2016/09/27/636105387238176414439634842_Protesters.jpg") center center;
@@ -33,6 +69,20 @@ header {
 .header-text {
     position: relative;
     top: 100px;
+}
+@media screen and (max-width:940px){
+    .hero{
+        color: #212121 !important;
+    }
+    .btn_flat {
+        color: #212121 !important;
+    }
+}
+.hero {
+    height: 100vh;
+    width: 100vw;
+    float: none;
+    color: white;
 }
 #home p {
     font-size: 15px;
@@ -109,6 +159,12 @@ hr.intro {
 }
 
 /* T */
+.title {
+    padding-top: 20%;
+}
+.title h1 {
+    font-weight: 500;
+}
 .thin {
     font-weight: 200;
 }
@@ -116,7 +172,9 @@ hr.intro {
 /* U */
 
 /* V */
-
+.vcenter {
+    vertical-align: middle !important;
+}
 /* W */
 @media screen and (max-width: 993px) {
     .writer-info {
@@ -130,3 +188,4 @@ hr.intro {
 /* Y */
 
 /* Z */
+

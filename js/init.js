@@ -1,4 +1,6 @@
-$(document).ready(function(){
+$(document).ready(function () {
+    'use strict';
+    $(".button-collapse").sideNav();
     $('.modal').modal();
     $('.parallax').parallax();
     $('.carousel').carousel();
@@ -10,9 +12,8 @@ $(document).ready(function(){
     $('ul.tabs').tabs();
     $('.datepicker').pickadate({
         selectMonths: true,
-        selectYears: 15,
+        selectYears: 15
     });
-    $(document).ready(function() {
     $('select').material_select();
-    });
 });
+
