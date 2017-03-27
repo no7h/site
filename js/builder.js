@@ -363,3 +363,104 @@ var anonymous22 = anonymous22.replace("%post%", "It's a bad idea -- expensive, c
 var anonymous22 = anonymous22.replace("%date%", "March 25, 2017");
 var anonymous22 = anonymous22.replace("%color%", "green");
 $("#c2").prepend(anonymous22);
+
+var emilyChen = authorCard.replace("%author%", "Emily Chen");
+var emilyChen = emilyChen.replace("%modal%", "emilychen");
+var emilyChen = emilyChen.replace("%post%", "I think it would be too stressful for students because of the transition to the new 7+H schedule. It may be hard to adjust to the amount of homework and classes and the new rotation cycle.");
+var emilyChen = emilyChen.replace("%date%", "March 26, 2017");
+var emilyChen = emilyChen.replace("%color%", "indigo");
+$("#c4").prepend(emilyChen);
+
+var anonymous23 = authorCard.replace("%author%", "Anonymous");
+var anonymous23 = anonymous23.replace("%modal%", "anonymous23");
+var anonymous23 = anonymous23.replace("%post%", "I am not a  huge fan of the new schedule. H block is essentially a study period which in with a our current schedule a student could replace with a course they'd like to take.");
+var anonymous23 = anonymous23.replace("%date%", "March 26, 2017");
+var anonymous23 = anonymous23.replace("%color%", "green");
+$("#c2").prepend(anonymous23);
+
+var anonymous24 = authorCard.replace("%author%", "Anonymous");
+var anonymous24 = anonymous24.replace("%modal%", "anonymous24");
+var anonymous24 = anonymous24.replace("%post%", "I like having a study block but I don't like how I lose a whole credit and we have the same teacher year-round");
+var anonymous24 = anonymous24.replace("%date%", "March 26, 2017");
+var anonymous24 = anonymous24.replace("%color%", "blue");
+$("#c1").prepend(anonymous24);
+
+var ayanChowdhury = authorCard.replace("%author%", "Ayan Chowdhury");
+var ayanChowdhury = ayanChowdhury.replace("%modal%", "ayanchowdhury");
+var ayanChowdhury = ayanChowdhury.replace("%post%", "I think it would be too stressful for students because of the transition to the new 7+H schedule. It may be hard to adjust to the amount of homework and classes and the new rotation cycle.");
+var ayanChowdhury = ayanChowdhury.replace("%date%", "March 26, 2017");
+var ayanChowdhury = ayanChowdhury.replace("%color%", "green");
+$("#c2").prepend(ayanChowdhury);
+
+var sofiaGarcia = authorCard.replace("%author%", "Sofia Garcia");
+var sofiaGarcia = sofiaGarcia.replace("%modal%", "sofiagarcia");
+var sofiaGarcia = sofiaGarcia.replace("%post%", "The new schedule limits the amount of credits we are to take, making them go from 8 credits to only 7 credits. This limits the students that would like to double up to take more classes so they can take the ones they would like to senior year.");
+var sofiaGarcia = sofiaGarcia.replace("%date%", "March 26, 2017");
+var sofiaGarcia = sofiaGarcia.replace("%color%", "green");
+$("#c2").prepend(sofiaGarcia);
+
+var anonymous25 = authorCard.replace("%author%", "Anonymous");
+var anonymous25 = anonymous25.replace("%modal%", "anonymous25");
+var anonymous25 = anonymous25.replace("%post%", "It's frustrating how the new schedule is restricting students from doing their best due to the class credit limit.");
+var anonymous25 = anonymous25.replace("%date%", "March 26, 2017");
+var anonymous25 = anonymous25.replace("%color%", "green");
+$("#c2").prepend(anonymous25);
+
+var rayhanKhan = authorCard.replace("%author%", "Rayhan Khan");
+var rayhanKhan = rayhanKhan.replace("%modal%", "rayhankhan");
+var rayhanKhan = rayhanKhan.replace("%post%", "The new schedule limits the amount of credits we are to take, making them go from 8 credits to only 7 credits. This limits the students that would like to double up to take more classes so they can take the ones they would like to senior year.");
+var rayhanKhan = rayhanKhan.replace("%date%", "March 26, 2017");
+var rayhanKhan = rayhanKhan.replace("%color%", "red");
+$("#c3").prepend(rayhanKhan);
+
+var sahanaAnand = authorCard.replace("%author%", "Sahana Anand");
+var sahanaAnand = sahanaAnand.replace("%modal%", "sahanaanand");
+var sahanaAnand = sahanaAnand.replace("%post%", "I don't really like the new schedule, honestly I think it's kinda stupid but I don't really wanna judge because we haven't even tried it yet ");
+var sahanaAnand = sahanaAnand.replace("%date%", "March 26, 2017");
+var sahanaAnand = sahanaAnand.replace("%color%", "green");
+$("#c2").prepend(sahanaAnand);
+
+var anonymous26 = authorCard.replace("%author%", "Anonymous");
+var anonymous26 = anonymous26.replace("%modal%", "anonymous26");
+var anonymous26 = anonymous26.replace("%post%", "Restrictive");
+var anonymous26 = anonymous26.replace("%date%", "March 26, 2017");
+var anonymous26 = anonymous26.replace("%color%", "green");
+$("#c2").prepend(anonymous26);
+
+var anonymous27 = authorCard.replace("%author%", "Anonymous");
+var anonymous27 = anonymous27.replace("%modal%", "anonymous27");
+var anonymous27 = anonymous27.replace("%post%", "I don't really have an opinion so I would not violently protest if they implemented it, but I do see how there are less classes and the work load it more. Overall I can see how people would have a problem with it.");
+var anonymous27 = anonymous27.replace("%date%", "March 26, 2017");
+var anonymous27 = anonymous27.replace("%color%", "green");
+$("#c2").prepend(anonymous27);
+
+var anonymous28 = authorCard.replace("%author%", "Anonymous");
+var anonymous28 = anonymous28.replace("%modal%", "anonymous28");
+var anonymous28 = anonymous28.replace("%post%", "I believe the 7+H schedule limits a student's ability to take classes of choice. As a sophomore, I will have 6 required credits next year. I want to take statistics, but this gives me no flexibility to take AP Biology or AP Chemistry due to them being 1.5 credits or any electives worth 0.5 credits. With the current schedule, there is an opportunity to explore new electives and new schedule strongly limits this.");
+var anonymous28 = anonymous28.replace("%date%", "March 26, 2017");
+var anonymous28 = anonymous28.replace("%color%", "green");
+$("#c2").prepend(anonymous28);
+
+var sophiaLynch = authorCard.replace("%author%", "Sophia Lynch");
+var sophiaLynch = sophiaLynch.replace("%modal%", "sophialynch");
+var sophiaLynch = sophiaLynch.replace("%post%", "I do not like the 7h schedule. This is due to the fact that we lose a credit, and have less room in our schedules, therefore limiting our learning opportunities.");
+var sophiaLynch = sophiaLynch.replace("%color%", "green");
+$("#c2").prepend(sophiaLynch);
+
+var riyaSharma = authorCard.replace("%author%", "Riya Sharma");
+var riyaSharma = riyaSharma.replace("%modal%", "riyasharma");
+var riyaSharma = riyaSharma.replace("%post%", "I feel as though the new 7+H schedule will be quite hard to follow, especially for incoming freshman who will already be experiencing difficulty finding their way around their new school to the variety of classes offered.");
+var riyaSharma = riyaSharma.replace("%color%", "indigo");
+$("#c4").prepend(riyaSharma);
+
+var marilynCardin = authorCard.replace("%author%", "Marilyn Cardin");
+var marilynCardin = marilynCardin.replace("%modal%", "marilyncardin");
+var marilynCardin = marilynCardin.replace("%post%", "I think the schedule is unnecessary and is going to cause more harm than good.");
+var marilynCardin = marilynCardin.replace("%color%", "green");
+$("#c2").prepend(marilynCardin);
+
+var zacharyClement = authorCard.replace("%author%", "Zachary Clement");
+var zacharyClement = zacharyClement.replace("%modal%", "zacharyclement");
+var zacharyClement = zacharyClement.replace("%post%", "It adds awkward redundancies to our schedule, redundancies that could be replaced by actual work.");
+var zacharyClement = zacharyClement.replace("%color%", "indigo");
+$("#c4").prepend(zacharyClement);
