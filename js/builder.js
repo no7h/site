@@ -538,3 +538,10 @@ var shardulJoshi = shardulJoshi.replace("%post%", "The new 7+H schedule poses se
 var shardulJoshi = shardulJoshi.replace("%date%", "March 27, 2017");
 var shardulJoshi = shardulJoshi.replace("%color%", "green");
 $("#c2").prepend(shardulJoshi);
+
+var aswhinGanesh = authorCard.replace("%author%", "Aswhin Ganesh");
+var aswhinGanesh = aswhinGanesh.replace("%modal%", "aswhinganesh");
+var aswhinGanesh = aswhinGanesh.replace("%post%", "It is not going to allow us to reach our full potential because it will reduce the number of electives we are allowed to take.");
+var aswhinGanesh = aswhinGanesh.replace("%date%", "March 28, 2017");
+var aswhinGanesh = aswhinGanesh.replace("%color%", "blue");
+$("#c1").prepend(aswhinGanesh);
