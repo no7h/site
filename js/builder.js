@@ -147,12 +147,12 @@ var anonymous7 = anonymous7.replace("%date%", "March 25, 2017");
 var anonymous7 = anonymous7.replace("%color%", "green");
 $("#c2").prepend(anonymous7);
 
-var anonymous28 = authorCard.replace("%author%", "Anonymous");
-var anonymous28 = anonymous28.replace("%modal%", "anonymous28");
-var anonymous28 = anonymous28.replace("%post%", "I think that this benefits the average student more than it may benefit a student considered 'above average'. From what I know, the H block is meant for students to go talk to their teachers about their classes and ask for help if they really need it. For a student who doesn't need this enrichment, the H block is completely useless unless they're able to do homework. Also after reading the information on the no7H website, this schedule change should cost a million dollars. That 1 million dollars can be used for something a lot more useful than a schedule change. They can raise the teacher's salaries, or use it to create more classes. Personally, I don't think this would benefit me and I'd rather be able to take another class instead of wasting an hour doing nothing.");
-var anonymous28 = anonymous28.replace("%date%", "March 25, 2017");
-var anonymous28 = anonymous28.replace("%color%", "indigo");
-$("#c4").prepend(anonymous28);
+var ishaanDesai = authorCard.replace("%author%", "Ishaan Desai");
+var ishaanDesai = ishaanDesai.replace("%modal%", "ishaandesai");
+var ishaanDesai = ishaanDesai.replace("%post%", "I think that this benefits the average student more than it may benefit a student considered 'above average'. From what I know, the H block is meant for students to go talk to their teachers about their classes and ask for help if they really need it. For a student who doesn't need this enrichment, the H block is completely useless unless they're able to do homework. Also after reading the information on the no7H website, this schedule change should cost a million dollars. That 1 million dollars can be used for something a lot more useful than a schedule change. They can raise the teacher's salaries, or use it to create more classes. Personally, I don't think this would benefit me and I'd rather be able to take another class instead of wasting an hour doing nothing.");
+var ishaanDesai = ishaanDesai.replace("%date%", "March 25, 2017");
+var ishaanDesai = ishaanDesai.replace("%color%", "indigo");
+$("#c4").prepend(ishaanDesai);
 
 var willShahbazian = authorCard.replace("%author%", "Will Shahbazian");
 var willShahbazian = willShahbazian.replace("%modal%", "willshahbazian");
@@ -434,8 +434,6 @@ var anonymous27 = anonymous27.replace("%date%", "March 26, 2017");
 var anonymous27 = anonymous27.replace("%color%", "green");
 $("#c2").prepend(anonymous27);
 
-/* Anonymous28 is on line 150 */
-
 var sophiaLynch = authorCard.replace("%author%", "Sophia Lynch");
 var sophiaLynch = sophiaLynch.replace("%modal%", "sophialynch");
 var sophiaLynch = sophiaLynch.replace("%post%", "I do not like the 7h schedule. This is due to the fact that we lose a credit, and have less room in our schedules, therefore limiting our learning opportunities.");
@@ -463,3 +461,38 @@ var zacharyClement = zacharyClement.replace("%post%", "It adds awkward redundanc
 var zacharyClement = zacharyClement.replace("%date%", "March 26, 2017");
 var zacharyClement = zacharyClement.replace("%color%", "indigo");
 $("#c4").prepend(zacharyClement);
+
+var anonymous29 = authorCard.replace("%author%", "Anonymous");
+var anonymous29 = anonymous29.replace("%modal%", "anonymous29");
+var anonymous29 = anonymous29.replace("%post%", "I think it is complicated, unclear, and completely unnecessary.");
+var anonymous29 = anonymous29.replace("%date%", "March 27, 2017");
+var anonymous29 = anonymous29.replace("%color%", "green");
+$("#c2").prepend(anonymous29);
+
+var anonymous30 = authorCard.replace("%author%", "Anonymous");
+var anonymous30 = anonymous30.replace("%modal%", "anonymous30");
+var anonymous30 = anonymous30.replace("%post%", "I don't like that it doesn't let us take as many courses.");
+var anonymous30 = anonymous30.replace("%date%", "March 27, 2017");
+var anonymous30 = anonymous30.replace("%color%", "green");
+$("#c2").prepend(anonymous30);
+
+var henrySchmidel = authorCard.replace("%author%", "Henry Schmidel");
+var henrySchmidel = henrySchmidel.replace("%modal%", "henryschmidel");
+var henrySchmidel = henrySchmidel.replace("%post%", "As somebody who has difficulty with the workload I receive now, the 7+H schedule frightens me, as it doesn't allow for studies, and requires me to double the number of classes I'm taking at any given time. It isn't well thought out, and damages the ability of someone such as me, whose passion is history, to follow that path instead of one based around science or math.");
+var henrySchmidel = henrySchmidel.replace("%date%", "March 27, 2017");
+var henrySchmidel = henrySchmidel.replace("%color%", "green");
+$("#c2").prepend(henrySchmidel);
+
+var keltonLin = authorCard.replace("%author%", "Kelton Lin");
+var keltonLin = keltonLin.replace("%modal%", "keltonlin");
+var keltonLin = keltonLin.replace("%post%", "The is meant to reduce stress but for me the alternating schedule would actually cause stress to me.");
+var keltonLin = keltonLin.replace("%date%", "March 27, 2017");
+var keltonLin = keltonLin.replace("%color%", "green");
+$("#c2").prepend(keltonLin);
+
+var anonymous31 = authorCard.replace("%author%", "Anonymous");
+var anonymous31 = anonymous31.replace("%modal%", "anonymous30");
+var anonymous31 = anonymous31.replace("%post%", "Don't like it because it takes away a credit that we can use to take classes we want and enjoy, along with giving more space for APs. H block isn't something everyone wants in their schedule, but they have no choice but to have it on their schedule. The 8 day rotation puts way more workload and stress on students (and we already have enough of that, we really don't need more).");
+var anonymous31 = anonymous31.replace("%date%", "March 27, 2017");
+var anonymous31 = anonymous31.replace("%color%", "green");
+$("#c2").prepend(anonymous31);
