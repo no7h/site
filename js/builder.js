@@ -464,17 +464,10 @@ $("#c4").prepend(zacharyClement);
 
 var anonymous29 = authorCard.replace("%author%", "Anonymous");
 var anonymous29 = anonymous29.replace("%modal%", "anonymous29");
-var anonymous29 = anonymous29.replace("%post%", "I think it is complicated, unclear, and completely unnecessary.");
+var anonymous29 = anonymous29.replace("%post%", "I don't like that it doesn't let us take as many courses.");
 var anonymous29 = anonymous29.replace("%date%", "March 27, 2017");
 var anonymous29 = anonymous29.replace("%color%", "green");
 $("#c2").prepend(anonymous29);
-
-var anonymous30 = authorCard.replace("%author%", "Anonymous");
-var anonymous30 = anonymous30.replace("%modal%", "anonymous30");
-var anonymous30 = anonymous30.replace("%post%", "I don't like that it doesn't let us take as many courses.");
-var anonymous30 = anonymous30.replace("%date%", "March 27, 2017");
-var anonymous30 = anonymous30.replace("%color%", "green");
-$("#c2").prepend(anonymous30);
 
 var henrySchmidel = authorCard.replace("%author%", "Henry Schmidel");
 var henrySchmidel = henrySchmidel.replace("%modal%", "henryschmidel");
@@ -490,9 +483,9 @@ var keltonLin = keltonLin.replace("%date%", "March 27, 2017");
 var keltonLin = keltonLin.replace("%color%", "green");
 $("#c2").prepend(keltonLin);
 
-var anonymous31 = authorCard.replace("%author%", "Anonymous");
-var anonymous31 = anonymous31.replace("%modal%", "anonymous30");
-var anonymous31 = anonymous31.replace("%post%", "Don't like it because it takes away a credit that we can use to take classes we want and enjoy, along with giving more space for APs. H block isn't something everyone wants in their schedule, but they have no choice but to have it on their schedule. The 8 day rotation puts way more workload and stress on students (and we already have enough of that, we really don't need more).");
-var anonymous31 = anonymous31.replace("%date%", "March 27, 2017");
-var anonymous31 = anonymous31.replace("%color%", "green");
-$("#c2").prepend(anonymous31);
+var anonymous30 = authorCard.replace("%author%", "Anonymous");
+var anonymous30 = anonymous30.replace("%modal%", "anonymous30");
+var anonymous30 = anonymous30.replace("%post%", "Don't like it because it takes away a credit that we can use to take classes we want and enjoy, along with giving more space for APs. H block isn't something everyone wants in their schedule, but they have no choice but to have it on their schedule. The 8 day rotation puts way more workload and stress on students (and we already have enough of that, we really don't need more).");
+var anonymous30 = anonymous30.replace("%date%", "March 27, 2017");
+var anonymous30 = anonymous30.replace("%color%", "green");
+$("#c2").prepend(anonymous30);
