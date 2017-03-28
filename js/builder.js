@@ -5,6 +5,13 @@ var joeyGrieve = joeyGrieve.replace("%date%", "March 24, 2017");
 var joeyGrieve = joeyGrieve.replace("%color%", "green");
 $("#c2").prepend(joeyGrieve);
 
+var matthewAllen = authorCard.replace("%author%", "Matthew Allen");
+var matthewAllen = matthewAllen.replace("%modal%", "matthewallen");
+var matthewAllen = matthewAllen.replace("%post%", "As a committed sophomore at Andover High School I was shocked to hear that the town was going to implement the 7+H schedule. Not only was this schedule");
+var matthewAllen = matthewAllen.replace("%date%", "March 25, 2017");
+var matthewAllen = matthewAllen.replace("%color%", "green");
+$("#c2").prepend(matthewAllen);
+
 var ryanMcBride = authorCard.replace("%author%", "Ryan McBride");
 var ryanMcBride = ryanMcBride.replace("%modal%", "ryanmcbride");
 var ryanMcBride = ryanMcBride.replace("%post%", "As Andover High School approaches a new year of exciting learning and discovering new interests and ideas, a controversy arises");
@@ -489,3 +496,45 @@ var anonymous30 = anonymous30.replace("%post%", "Don't like it because it takes 
 var anonymous30 = anonymous30.replace("%date%", "March 27, 2017");
 var anonymous30 = anonymous30.replace("%color%", "green");
 $("#c2").prepend(anonymous30);
+
+var anonymous31 = authorCard.replace("%author%", "Anonymous");
+var anonymous31 = anonymous31.replace("%modal%", "anonymous31");
+var anonymous31 = anonymous31.replace("%post%", "Terrible, I want to actually take classes, the entire student body is against this, spare us.");
+var anonymous31 = anonymous31.replace("%date%", "March 27, 2017");
+var anonymous31 = anonymous31.replace("%color%", "green");
+$("#c2").prepend(anonymous31);
+
+var alexTrottier = authorCard.replace("%author%", "Alex Trottier");
+var alexTrottier = alexTrottier.replace("%modal%", "alextrottier");
+var alexTrottier = alexTrottier.replace("%post%", "It's a waste of money and no one likes it.");
+var alexTrottier = alexTrottier.replace("%date%", "March 27, 2017");
+var alexTrottier= alexTrottier.replace("%color%", "green");
+$("#c2").prepend(alexTrottier);
+
+var anonymous32 = authorCard.replace("%author%", "Anonymous");
+var anonymous32 = anonymous32.replace("%modal%", "anonymous32");
+var anonymous32 = anonymous32.replace("%post%", "I don't like it, I find it very confusing and as a incoming freshman I think it will add more stress than needed. I've heard around my school that most other students don't like it either. All three of my sisters went to AHS and they all have had no problem with the block schedule, one of my sisters is an incoming junior and says it will be like freshman year all over again, even for seniors.");
+var anonymous32 = anonymous32.replace("%date%", "March 27, 2017");
+var anonymous32 = anonymous32.replace("%color%", "indigo");
+$("#c4").prepend(anonymous32);
+
+var carolineHuntress = authorCard.replace("%author%", "Caroline Huntress");
+var carolineHuntress = carolineHuntress.replace("%modal%", "carolinehuntress");
+var carolineHuntress = carolineHuntress.replace("%post%", "I genuinely believe that this is not a good idea. This change would produce more anxiety and would cost more than we have. Having an 8 day rotation with all of our classes in action at once would definitely propel the levels of stress at Andover high. As a teenager who has experienced anxiety, I know I will do anything to prevent anything that will cause those levels to increase. Teachers claim that they will give less homework, but I personally find it difficult to trust their word on that one. Having all of our finals for every class in the same week would be heavy and could potentially decrease our scores because of the lack of time for us students to prepare for each test. I know that there are positives to this new schedule and I understand why people would like those changes, but this schedule would create more problems than it would solve.");
+var carolineHuntress = carolineHuntress.replace("%date%", "March 27, 2017");
+var carolineHuntress = carolineHuntress.replace("%color%", "green");
+$("#c2").prepend(carolineHuntress);
+
+var noahCoyle = authorCard.replace("%author%", "Noah Coyle");
+var noahCoyle = noahCoyle.replace("%modal%", "noahcoyle");
+var noahCoyle = noahCoyle.replace("%post%", "It's not that I'm opposed to any changes in the current schedule; it's that the proposed 7+H schedule is too flawed to be considered an acceptable replacement for our current system.");
+var noahCoyle = noahCoyle.replace("%date%", "March 27, 2017");
+var noahCoyle = noahCoyle.replace("%color%", "green");
+$("#c2").prepend(noahCoyle);
+
+var shardulJoshi = authorCard.replace("%author%", "Shardul Joshi");
+var shardulJoshi = shardulJoshi.replace("%modal%", "sharduljoshi");
+var shardulJoshi = shardulJoshi.replace("%post%", "The new 7+H schedule poses several concerns. In my opinion, the most important one is the loss of a possible credit.");
+var shardulJoshi = shardulJoshi.replace("%date%", "March 27, 2017");
+var shardulJoshi = shardulJoshi.replace("%color%", "green");
+$("#c2").prepend(shardulJoshi);
