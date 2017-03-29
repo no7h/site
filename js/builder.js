@@ -587,3 +587,24 @@ var anonymous34 = anonymous34.replace("%post%", "I actually think the new schedu
 var anonymous34 = anonymous34.replace("%date%", "March 28, 2017");
 var anonymous34 = anonymous34.replace("%color%", "blue");
 $("#c1").prepend(anonymous34);
+
+var savyaVirmani = authorCard.replace("%author%", "Savya Virmani");
+var savyaVirmani = savyaVirmani.replace("%modal%", "savyavirmani");
+var savyaVirmani = savyaVirmani.replace("%post%", "It is not a good idea to implement this schedule as it takes away from the students learning opportunities, as well as uses a lot of money, that could be used elsewhere in school projects. I personally wanted to take 2 APs my junior year, but because of the lack of credits in the new schedule, it is not possible to do so. This could be problem when applying to colleges as we won't have as many AP credits under our belt, as our competitors from other schools. This schedule is a terrible idea, and definitely should not be implemented.");
+var savyaVirmani = savyaVirmani.replace("%date%", "March 29, 2017");
+var savyaVirmani = savyaVirmani.replace("%color%", "green");
+$("#c2").prepend(savyaVirmani);
+
+var jazmineFraize = authorCard.replace("%author%", "Jazmine Fraize");
+var jazmineFraize = jazmineFraize.replace("%modal%", "jazminefraize");
+var jazmineFraize = jazmineFraize.replace("%post%", "It will bring down the arts, allow for students to take less AP classes, and less room for actual electives because the space is taken up by basic courses. Also, if I wanted a study I would take one.");
+var jazmineFraize = jazmineFraize.replace("%date%", "March 29, 2017");
+var jazmineFraize = jazmineFraize.replace("%color%", "green");
+$("#c2").prepend(jazmineFraize);
+
+var ducVu = authorCard.replace("%author%", "Duc Vu");
+var ducVu = ducVu.replace("%modal%", "ducvu");
+var ducVu = ducVu.replace("%post%", "This schedule is going to limit our credits to 7, giving us less opportunities to take classes and learn more and prepare us for college.");
+var ducVu = ducVu.replace("%date%", "March 29, 2017");
+var ducVu = ducVu.replace("%color%", "green");
+$("#c2").prepend(ducVu);
