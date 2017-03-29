@@ -563,7 +563,7 @@ $("#c1").prepend(laurenKole);
 var anonymous33 = authorCard.replace("%author%", "Anonymous");
 var anonymous33 = anonymous33.replace("%modal%", "anonymous33");
 var anonymous33 = anonymous33.replace("%post%", "I want more credits, not less. There's too many other problems to even start, but that's the main one for me.");
-var anonymous33 = anonymous33.replace("%date%", "March 27, 2017");
+var anonymous33 = anonymous33.replace("%date%", "March 28, 2017");
 var anonymous33 = anonymous33.replace("%color%", "red");
 $("#c3").prepend(anonymous33);
 
@@ -584,6 +584,6 @@ $("#c1").prepend(paigeTubinis);
 var anonymous34 = authorCard.replace("%author%", "Anonymous");
 var anonymous34 = anonymous34.replace("%modal%", "anonymous34");
 var anonymous34 = anonymous34.replace("%post%", "I actually think the new schedule is pretty annoying. First, it is 8 days which is very weird and hard to adapt to. Second, we can chose only 7 credits while other school can chose 8.(I would like to keep the name of that school as confidential?) This means we less class are available to us and is a great disadvantage to the students with the 7+H schedule. Third, with our current 2 semester schedule, we as students can manage better. We are more focused and it is better when facing final exams. Thus, I oppose 7+H schedule.");
-var anonymous34 = anonymous34.replace("%date%", "March 27, 2017");
-var anonymous34 = anonymous34.replace("%color%", "red");
+var anonymous34 = anonymous34.replace("%date%", "March 28, 2017");
+var anonymous34 = anonymous34.replace("%color%", "blue");
 $("#c1").prepend(anonymous34);
