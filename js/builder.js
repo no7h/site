@@ -545,3 +545,38 @@ var aswhinGanesh = aswhinGanesh.replace("%post%", "It is not going to allow us t
 var aswhinGanesh = aswhinGanesh.replace("%date%", "March 28, 2017");
 var aswhinGanesh = aswhinGanesh.replace("%color%", "blue");
 $("#c1").prepend(aswhinGanesh);
+
+var parkerRankin = authorCard.replace("%author%", "Parker Rankin");
+var parkerRankin = parkerRankin.replace("%modal%", "parkerrankin");
+var parkerRankin = parkerRankin.replace("%post%", "I do not see any benefit with the change. only problems. I hate that almost all of our classes are going to be the same the whole year. I like the change of classes then sticking with one class and getting bored and sick of the class by the end of the year.");
+var parkerRankin = parkerRankin.replace("%date%", "March 28, 2017");
+var parkerRankin = parkerRankin.replace("%color%", "indigo");
+$("#c4").prepend(parkerRankin);
+
+var laurenKole = authorCard.replace("%author%", "Lauren Kole");
+var laurenKole = laurenKole.replace("%modal%", "laurenkole");
+var laurenKole = laurenKole.replace("%post%", "The schedule is ultimately a very bad idea and will limit student experiences. The increased amount of homework and finals schedule will also cause mental health problem in already unstable teams. Lastly, the crazy schedule will cause confusion among teachers in keeping their classes on schedule, and they'll ultimately have to use he H Block to organize it. Overall, the schedule is a very bad idea.");
+var laurenKole = laurenKole.replace("%date%", "March 28, 2017");
+var laurenKole = laurenKole.replace("%color%", "blue");
+$("#c1").prepend(laurenKole);
+
+var anonymous33 = authorCard.replace("%author%", "Anonymous");
+var anonymous33 = anonymous33.replace("%modal%", "anonymous33");
+var anonymous33 = anonymous33.replace("%post%", "I want more credits, not less. There's too many other problems to even start, but that's the main one for me.");
+var anonymous33 = anonymous33.replace("%date%", "March 27, 2017");
+var anonymous33 = anonymous33.replace("%color%", "red");
+$("#c3").prepend(anonymous33);
+
+var lillyDeLemos = authorCard.replace("%author%", "Lilly DeLemos");
+var lillyDeLemos = lillyDeLemos.replace("%modal%", "lillydelemos");
+var lillyDeLemos = lillyDeLemos.replace("%post%", "I do not support it and believe it will make my school life more stressful.");
+var lillyDeLemos = lillyDeLemos.replace("%date%", "March 28, 2017");
+var lillyDeLemos = lillyDeLemos.replace("%color%", "blue");
+$("#c1").prepend(lillyDeLemos);
+
+var paigeTubinis = authorCard.replace("%author%", "Paige Tubinis");
+var paigeTubinis = paigeTubinis.replace("%modal%", "paigetubinis");
+var paigeTubinis = paigeTubinis.replace("%post%", "I do not support it and believe it will make my school life more stressful.");
+var paigeTubinis = paigeTubinis.replace("%date%", "March 28, 2017");
+var paigeTubinis = paigeTubinis.replace("%color%", "blue");
+$("#c1").prepend(paigeTubinis);
