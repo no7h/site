@@ -27,6 +27,7 @@
     vertical-align: middle;
     display: inline-block;
 }
+
 /* B */
 .btn_flat {
     font-weight: 500;
@@ -36,9 +37,14 @@
 .button-collapse i {
     font-size: 23px !important;
 }
+
 /* C */
 .category-color {
     height: 80px;
+}
+.color-horizontal {
+    width: 80px;
+    height: 200px
 }
 .container-fluid {
     padding-left: 5% !important;
@@ -98,7 +104,7 @@ hr.intro {
 
 /* I */
 .tabs .indicator {
-    background-color: black;
+    background-color: #607D8B;
 }
 
 .indent {
@@ -119,6 +125,7 @@ hr.intro {
     max-height: 100% !important;
 }
 
+
 /* N */
 
 /* O */
@@ -128,6 +135,11 @@ hr.intro {
 /* Q */
 
 /* R */
+@media screen and (max-width: 600px) {
+    .right-align {
+        text-align: left;
+    }
+}
 
 /* S */
 #sidenav-overlay {
