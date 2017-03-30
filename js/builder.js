@@ -47,8 +47,6 @@ var juliaParziale = juliaParziale.replace("%date%", "March 25, 2017");
 var juliaParziale = juliaParziale.replace("%color%", "green");
 $("#c2").prepend(juliaParziale);
 
-/* George Truong's card goes here */
-
 var richardTang = authorCard.replace("%author%", "Richard Tang");
 var richardTang = richardTang.replace("%modal%", "richardtang");
 var richardTang = richardTang.replace("%post%", "I don't understand how it works");
@@ -534,7 +532,7 @@ $("#c2").prepend(noahCoyle);
 
 var shardulJoshi = authorCard.replace("%author%", "Shardul Joshi");
 var shardulJoshi = shardulJoshi.replace("%modal%", "sharduljoshi");
-var shardulJoshi = shardulJoshi.replace("%post%", "The new 7+H schedule poses several concerns. In my opinion, the most important one is the loss of a possible credit.");
+var shardulJoshi = shardulJoshi.replace("%post%", "The new 7+H schedule poses several concerns. In my opinion, the most important one is the loss of the possibility of taking another credit");
 var shardulJoshi = shardulJoshi.replace("%date%", "March 27, 2017");
 var shardulJoshi = shardulJoshi.replace("%color%", "green");
 $("#c2").prepend(shardulJoshi);
