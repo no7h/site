@@ -17,31 +17,8 @@
 </head>
 
 <body>
-    <div class="navbar-fixed">
-        <nav class="white nav">
-            <div class="nav-wrapper container-fluid">
-                <a href="index.html" class="brand-logo blue-grey-text" style="font-size:20px !important;">No 7+H</a>
-                <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons blue-grey-text">menu</i></a>
-                <ul class="right hide-on-med-and-down blue-grey-text">
-                    <li><a href="index.html" class="blue-grey-text">Introduction</a></li>
-                    <li><a href='reactions.html' class="blue-grey-text">Student Reactions</a></li>
-                    <li><a href="aboutus.html" class="blue-grey-text">About Us</a></li>
-                    <li><a href="http://survey.no7h.com/" class=blue-grey-text>Survey</a></li>
-                </ul>
-                <ul class="side-nav" id="mobile-demo">
-                    <li class="userView">
-                        <div class="userInfo">
-                            <span class="name">No 7+H</span>
-                            <a class="other white-text tooltipped" data-position="bottom" data-delay="10" data-tooltip="Fill out the survey!" href="http://survey.no7h.com">Survey</a>
-                        </div>
-                    </li>
-                    <li><a href="index.html" class="blue-grey-text">Introduction</a></li>
-                    <li><a href='reactions.html' class="blue-grey-text">Student Reactions</a></li>
-                    <li><a href="aboutus.html" class="blue-grey-text">About Us</a></li>
-                    <li><a href="http://survey.no7h.com/" class=blue-grey-text>Survey</a></li>
-                </ul>
-            </div>
-        </nav>
+    <div id="nav">
+        
     </div>
     <header>
         <div class="header-text center-align">
@@ -53,7 +30,7 @@
         <section id="studentreactions" class="container-fluid">
             <h4 class="header light blue-grey-text section-title">Student Reactions</h4>
             <div class="hr"></div>
-            <p class="light"></p>
+            <p class="flow-text">Students are annoyed. The new schedule is making us anxious, angry, and rather confused. Let us know how you feel.</p>
             <div class="row">
                 <div class="col s12">
                     <ul class="tabs">
@@ -434,6 +411,20 @@
                     <div class="col l9 m12 s12" style="padding: 24px; margin-bottom: -90px; height: 100vh">
                         <a href="#!" class="modal-action modal-close right"><i class="material-icons black-text">close</i></a>
                         <p class="indent">I actually think the new schedule is pretty annoying. First, it is 8 days which is very weird and hard to adapt to. Second, we can chose only 7 credits while other school can chose 8.(I would like to keep the name of that school as confidential?) This means we less class are available to us and is a great disadvantage to the students with the 7+H schedule. Third, with our current 2 semester schedule, we as students can manage better. We are more focused and it is better when facing final exams. Thus, I oppose 7+H schedule.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="anthonydicenso" class="modal bottom-sheet">
+            <div class="modal-content" style="padding: 0px;">
+                <div class="row">
+                    <div class="writer-info col l3 m12 s12 blue white-text" style="padding: 24px; height: 100vh; margin-bottom: -20px;">
+                        <h5 class="light"><small>by</small> Anthony DiCenso</h5>
+                        <p class="light">March 30, 2017</p>
+                    </div>
+                    <div class="col l9 m12 s12" style="padding: 24px; margin-bottom: -90px; height: 100vh">
+                        <a href="#!" class="modal-action modal-close right"><i class="material-icons black-text">close</i></a>
+                        <p class="indent">It's a terrible idea.</p>
                     </div>
                 </div>
             </div>
@@ -1240,6 +1231,20 @@
                 </div>
             </div>
         </div>
+        <div id="ramshine" class="modal bottom-sheet">
+            <div class="modal-content" style="padding: 0px;">
+                <div class="row">
+                    <div class="writer-info col l3 m12 s12 green white-text" style="padding: 24px; height: 100vh; margin-bottom: -20px;">
+                        <h5 class="light"><small>by</small> Ram Shine</h5>
+                        <p class="light">April 1, 2017</p>
+                    </div>
+                    <div class="col l9 m12 s12" style="padding: 24px; margin-bottom: -90px; height: 100vh">
+                        <a href="#!" class="modal-action modal-close right"><i class="material-icons black-text">close</i></a>
+                        <p class="indent">It's bad.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
         <!-- Junior Modals -->
         <div id="anonymous2" class="modal bottom-sheet">
             <div class="modal-content" style="padding: 0px;">
@@ -1361,6 +1366,7 @@
     <!-- Builder and Helper js files; helper first -->
     <script src="js/helper.js"></script>
     <script src="js/builder.js"></script>
+    <script src="js/nav.js"></script>
     <!-- Init JS -->
     <script src="js/init.js"></script>
 
