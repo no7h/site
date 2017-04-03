@@ -613,3 +613,17 @@ var anonymous35 = anonymous35.replace("%post%", "The new schedule poses many thr
 var anonymous35 = anonymous35.replace("%date%", "March 30, 2017");
 var anonymous35 = anonymous35.replace("%color%", "red");
 $("#c3").prepend(anonymous35);
+
+var anthonyDiCenso = authorCard.replace("%author%", "Anthony DiCenso");
+var anthonyDiCenso = anthonyDiCenso.replace("%modal%", "anthonydicenso");
+var anthonyDiCenso = anthonyDiCenso.replace("%post%", "It's a terrible idea.");
+var anthonyDiCenso = anthonyDiCenso.replace("%date%", "March 30, 2017");
+var anthonyDiCenso = anthonyDiCenso.replace("%color%", "blue");
+$("#c1").prepend(anthonyDiCenso);
+
+var ramShine = authorCard.replace("%author%", "Ram Shine");
+var ramShine = ramShine.replace("%modal%", "ramshine");
+var ramShine = ramShine.replace("%post%", "It's bad.");
+var ramShine = ramShine.replace("%date%", "April 1, 2017");
+var ramShine = ramShine.replace("%color%", "green");
+$("#c2").prepend(ramShine);
