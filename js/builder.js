@@ -627,3 +627,10 @@ var ramShine = ramShine.replace("%post%", "It's bad.");
 var ramShine = ramShine.replace("%date%", "April 1, 2017");
 var ramShine = ramShine.replace("%color%", "green");
 $("#c2").prepend(ramShine);
+
+var anonymous36 = authorCard.replace("%author%", "Anonymous");
+var anonymous36 = anonymous36.replace("%modal%", "anonymous36");
+var anonymous36 = anonymous36.replace("%post%", "The loss of one entire credit is devastating. The schedule could be more manageable if there was a loss of 0.5 credits, but one credit is too far.");
+var anonymous36 = anonymous36.replace("%date%", "April 2, 2017");
+var anonymous36 = anonymous36.replace("%color%", "green");
+$("#c2").prepend(anonymous36);
