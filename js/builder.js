@@ -47,8 +47,6 @@ var juliaParziale = juliaParziale.replace("%date%", "March 25, 2017");
 var juliaParziale = juliaParziale.replace("%color%", "green");
 $("#c2").prepend(juliaParziale);
 
-/* George Truong's card goes here */
-
 var richardTang = authorCard.replace("%author%", "Richard Tang");
 var richardTang = richardTang.replace("%modal%", "richardtang");
 var richardTang = richardTang.replace("%post%", "I don't understand how it works");
@@ -534,7 +532,7 @@ $("#c2").prepend(noahCoyle);
 
 var shardulJoshi = authorCard.replace("%author%", "Shardul Joshi");
 var shardulJoshi = shardulJoshi.replace("%modal%", "sharduljoshi");
-var shardulJoshi = shardulJoshi.replace("%post%", "The new 7+H schedule poses several concerns. In my opinion, the most important one is the loss of a possible credit.");
+var shardulJoshi = shardulJoshi.replace("%post%", "The new 7+H schedule poses several concerns. In my opinion, the most important one is the loss of the possibility of taking another credit");
 var shardulJoshi = shardulJoshi.replace("%date%", "March 27, 2017");
 var shardulJoshi = shardulJoshi.replace("%color%", "green");
 $("#c2").prepend(shardulJoshi);
@@ -608,3 +606,31 @@ var ducVu = ducVu.replace("%post%", "This schedule is going to limit our credits
 var ducVu = ducVu.replace("%date%", "March 29, 2017");
 var ducVu = ducVu.replace("%color%", "green");
 $("#c2").prepend(ducVu);
+
+var anonymous35 = authorCard.replace("%author%", "Anonymous");
+var anonymous35 = anonymous35.replace("%modal%", "anonymous35");
+var anonymous35 = anonymous35.replace("%post%", "The new schedule poses many threats to my college applications. As someone who is looking to be recruited for athletics at competitive schools, the fact that we drop a credit makes admissions teams think I am becoming lazy with my academics. It also creates issues in regards to choosing classes. When students don't particularly enjoy a certain area of studies, they may have to take a full year of that class so satisfy the needs of the credit. I also have a problem with the loss of study and need for H-block. Throughout our test run last year, H-block acted as a 20 minute break during the day to sit in a room with people who you don't know in order to create a 'more connected school environment' when in reality we all just sat on our phones and waited for it to be over. If students really need help in a class they can stay after school and get the work done, we don't need to carve out time in our already busy day to have others fulfill their own responsibilities. ");
+var anonymous35 = anonymous35.replace("%date%", "March 30, 2017");
+var anonymous35 = anonymous35.replace("%color%", "red");
+$("#c3").prepend(anonymous35);
+
+var anthonyDiCenso = authorCard.replace("%author%", "Anthony DiCenso");
+var anthonyDiCenso = anthonyDiCenso.replace("%modal%", "anthonydicenso");
+var anthonyDiCenso = anthonyDiCenso.replace("%post%", "It's a terrible idea.");
+var anthonyDiCenso = anthonyDiCenso.replace("%date%", "March 30, 2017");
+var anthonyDiCenso = anthonyDiCenso.replace("%color%", "blue");
+$("#c1").prepend(anthonyDiCenso);
+
+var ramShine = authorCard.replace("%author%", "Ram Shine");
+var ramShine = ramShine.replace("%modal%", "ramshine");
+var ramShine = ramShine.replace("%post%", "It's bad.");
+var ramShine = ramShine.replace("%date%", "April 1, 2017");
+var ramShine = ramShine.replace("%color%", "green");
+$("#c2").prepend(ramShine);
+
+var anonymous36 = authorCard.replace("%author%", "Anonymous");
+var anonymous36 = anonymous36.replace("%modal%", "anonymous36");
+var anonymous36 = anonymous36.replace("%post%", "The loss of one entire credit is devastating. The schedule could be more manageable if there was a loss of 0.5 credits, but one credit is too far.");
+var anonymous36 = anonymous36.replace("%date%", "April 2, 2017");
+var anonymous36 = anonymous36.replace("%color%", "green");
+$("#c2").prepend(anonymous36);
