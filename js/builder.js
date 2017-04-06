@@ -634,3 +634,24 @@ var anonymous36 = anonymous36.replace("%post%", "The loss of one entire credit i
 var anonymous36 = anonymous36.replace("%date%", "April 2, 2017");
 var anonymous36 = anonymous36.replace("%color%", "green");
 $("#c2").prepend(anonymous36);
+
+var anonymous37 = authorCard.replace("%author%", "Anonymous");
+var anonymous37 = anonymous37.replace("%modal%", "anonymous37");
+var anonymous37 = anonymous37.replace("%post%", "It is terrible, and they shouldn't have even thought of it. Its a waste of money that could be used for more valuable things like rebuilding the school. Nobody in the school wants it, so the fact that they are going to implement a schedule without asking the people who are effected by it most is unfair.");
+var anonymous37 = anonymous37.replace("%date%", "April 3, 2017");
+var anonymous37 = anonymous37.replace("%color%", "red");
+$("#c3").prepend(anonymous37);
+
+var davidAdly = authorCard.replace("%author%", "David Adly");
+var davidAdly = davidAdly.replace("%modal%", "davidadly");
+var davidAdly = davidAdly.replace("%post%", "It takes away opportunity from kids.");
+var davidAdly = davidAdly.replace("%date%", "April 4, 2017");
+var davidAdly = davidAdly.replace("%color%", "green");
+$("#c2").prepend(davidAdly);
+
+var davidLaPointe = authorCard.replace("%author%", "David LaPointe");
+var davidLaPointe = davidLaPointe.replace("%modal%", "davidlapointe");
+var davidLaPointe = davidLaPointe.replace("%post%", "I believe the schedule does not fit in very well within the week because it is an 8 day rotation, when students go to school 5 days a week. It will cause a lot of confusion and many people will never know which class to go to.");
+var davidLaPointe = davidLaPointe.replace("%date%", "April 4, 2017");
+var davidLaPointe = davidLaPointe.replace("%color%", "green");
+$("#c2").prepend(davidLaPointe);
