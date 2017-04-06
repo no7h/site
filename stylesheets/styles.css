@@ -50,13 +50,6 @@
     padding-left: 5% !important;
     padding-right: 5% !important;
 }
-.side-nav .collapsible-header {
-    font-size: 14px !important;
-    padding-left: 30px !important;
-}
-.collapsible-body ul {
-    padding-left: 15px;
-}
 
 /* D */
 .date {
@@ -174,6 +167,17 @@ hr.intro {
     background-size: cover;
     padding-top: 50px;
 }
+.side-nav .collapsible-header {
+    font-size: 14px !important;
+    padding-left: 30px !important;
+}
+.side-nav .collapsible-body ul {
+    padding-left: 15px;
+}
+.side-nav li a {
+    font-size: 14px !important;
+    padding-left: 30px !important;
+}
 
 /* T */
 .title {
@@ -212,7 +216,7 @@ ul.timeline {
 /* Timeline styling */
 #timeline {
     position: relative;
-    left: 50px;
+    left: 80px;
 }
 #content {
   text-align: center;
@@ -300,5 +304,11 @@ h1.header {
   #timeline {
     position: relative;
     left: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+  section.timeline-outer {
+    width: 100%;
+    margin: 0 auto;
   }
 }
