@@ -152,12 +152,12 @@ var anonymous7 = anonymous7.replace("%date%", "March 25, 2017");
 var anonymous7 = anonymous7.replace("%color%", "green");
 $("#c2").prepend(anonymous7);
 
-var ishaanDesai = authorCard.replace("%author%", "Ishaan Desai");
-var ishaanDesai = ishaanDesai.replace("%modal%", "ishaandesai");
-var ishaanDesai = ishaanDesai.replace("%post%", "I think that this benefits the average student more than it may benefit a student considered 'above average'. From what I know, the H block is meant for students to go talk to their teachers about their classes and ask for help if they really need it. For a student who doesn't need this enrichment, the H block is completely useless unless they're able to do homework. Also after reading the information on the no7H website, this schedule change should cost a million dollars. That 1 million dollars can be used for something a lot more useful than a schedule change. They can raise the teacher's salaries, or use it to create more classes. Personally, I don't think this would benefit me and I'd rather be able to take another class instead of wasting an hour doing nothing.");
-var ishaanDesai = ishaanDesai.replace("%date%", "March 25, 2017");
-var ishaanDesai = ishaanDesai.replace("%color%", "indigo");
-$("#c4").prepend(ishaanDesai);
+var anonymous28 = authorCard.replace("%author%", "Anonymous");
+var anonymous28 = anonymous28.replace("%modal%", "anonymous28");
+var anonymous28 = anonymous28.replace("%post%", "I think that this benefits the average student more than it may benefit a student considered 'above average'. From what I know, the H block is meant for students to go talk to their teachers about their classes and ask for help if they really need it. For a student who doesn't need this enrichment, the H block is completely useless unless they're able to do homework. Also after reading the information on the no7H website, this schedule change should cost a million dollars. That 1 million dollars can be used for something a lot more useful than a schedule change. They can raise the teacher's salaries, or use it to create more classes. Personally, I don't think this would benefit me and I'd rather be able to take another class instead of wasting an hour doing nothing.");
+var anonymous28 = anonymous28.replace("%date%", "March 25, 2017");
+var anonymous28 = anonymous28.replace("%color%", "indigo");
+$("#c4").prepend(anonymous28);
 
 var willShahbazian = authorCard.replace("%author%", "Will Shahbazian");
 var willShahbazian = willShahbazian.replace("%modal%", "willshahbazian");
