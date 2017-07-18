@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
+@import url('https://fonts.googleapis.com/css?family=Roboto:500');
 /* # */
 
 /* A */
@@ -38,6 +38,20 @@
     font-size: 23px !important;
 }
 
+body {
+    background: #FAFAFA;
+    color: rgb(115, 115, 115);
+}
+
+blockquote {
+    margin: 20px 0;
+    padding-left: 1.2rem;
+    border-left: 4px solid rgb(192, 235, 241);
+    
+}
+blockquote a {
+    font-size: 16px !important;
+}
 /* C */
 .category-color {
     height: 80px;
@@ -64,6 +78,13 @@
     background: url("http://az616578.vo.msecnd.net/files/2016/09/27/636105387238176414439634842_Protesters.jpg") right center;
 }
 /* H */
+h5 {
+    font-weight: 500 !important;
+    font-family: 'Roboto',sans-serif !important;
+    font-size: 16px !important;
+    text-transform: uppercase;
+}
+
 header {
     background: url("http://az616578.vo.msecnd.net/files/2016/09/27/636105387238176414439634842_Protesters.jpg") center center;
     background-size: cover;
